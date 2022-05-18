@@ -4,6 +4,7 @@ Este repositorio se crea con el fin de simplificar principios y filosofía de la
 
 ## Estructura de carpetas
 
+<pre>
 extra
   |
     + - dataModifiers.js
@@ -17,6 +18,7 @@ fundamentals
     + - inheritance.js
   |
     + - polimorfism.js
+</pre>
 
 indeex.js
 
