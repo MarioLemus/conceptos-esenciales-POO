@@ -32,4 +32,10 @@ Fundametals > contiene los principios fundamentales de OPP en JavaScript y TypeS
 index.js > archivo que inicializa, las pruebas en código de los fundamentos, etc.
 </pre>
 
+## Getting started
+
+1. abre el archivo index html en el navegador o utiliza live server para abrir el archivo
+2. abre la consola del navegador, para ver los resultados
+3. experimenta y diviértete
+
 ### Este repositorio, acepta PR, si deseas aportar a la iniciativa
