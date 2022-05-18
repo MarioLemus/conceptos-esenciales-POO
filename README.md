@@ -22,6 +22,8 @@ fundamentals
 
 indeex.js
 
+## Breve explicación del contenido de las carpetas
+
 <pre>
 Extra > contiene datos que podrían ser útiles en OOP para JavaScript y TypeScript
 
