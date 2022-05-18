@@ -22,8 +22,10 @@ fundamentals
 
 indeex.js
 
+<pre>
 **Extra -> contiene datos que podrían ser útiles en OOP para JavaScript y TypeScript**
 **Fundametals -> contiene los principios fundamentales de OPP en JavaScript y TypeScript**
 **index.js -> archivo que inicializa, las pruebas en código de los fundamentos, etc.**
+</pre>
 
 ### Este repositorio, acepta PR, si deseas aportar a la iniciativa
