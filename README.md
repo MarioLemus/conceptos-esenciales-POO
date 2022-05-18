@@ -18,9 +18,9 @@ fundamentals
     + - inheritance.js
   |
     + - polimorfism.js
-</pre>
 
 indeex.js
+</pre>
 
 ## Breve explicación del contenido de las carpetas
 
